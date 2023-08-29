@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877140012850",
+    "project_id": "carexm-mobileapp-development",
+    "storage_bucket": "carexm-mobileapp-development.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877140012850:android:51b1e2fc87d904695ab12b",
+        "android_client_info": {
+          "package_name": "com.carexm.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877140012850-43umrb14l2e7aftr3354j2fjkc3pao8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUBj9HjZYHzlblSZpVtfJwabjVUg80hlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877140012850-43umrb14l2e7aftr3354j2fjkc3pao8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
